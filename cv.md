@@ -1,4 +1,4 @@
-![рното](C:/Users/Pavel_Pigal/Documents/Project/rsschool-cv/photo.jpg)
+![рното](photo.jpg)
 
 ## ANASTASIYA PIGAL
 
@@ -45,7 +45,7 @@ function maskify(cc) {
 - **University:** Belarusian State University
 - **Course:**
   - HTML and CSS on the www.codecademy.com
-    ![course](C:/Users/Pavel_Pigal/Documents/Project/rsschool-cv/first.jpg)
+    ![course](first.jpg)
   - С# (.NET) Developer on the <https://teachmeskills.by/>
 
 ---
